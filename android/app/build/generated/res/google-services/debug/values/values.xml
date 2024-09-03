@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">282354735282</string>
+    <string name="google_api_key" translatable="false">AIzaSyDKpMdQ1Ux1N-EnADLt0Q_c46WVoN9R8fI</string>
+    <string name="google_app_id" translatable="false">1:282354735282:android:1ea1ae310f268bd39dd1ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDKpMdQ1Ux1N-EnADLt0Q_c46WVoN9R8fI</string>
+    <string name="google_storage_bucket" translatable="false">gaweanapp.appspot.com</string>
+    <string name="project_id" translatable="false">gaweanapp</string>
+</resources>
