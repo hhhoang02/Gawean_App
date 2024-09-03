@@ -7562,23 +7562,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Project_Test\\Gawean\\Gawean_App\\android\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,137,241,350,470,563",
-                        "endColumns": "81,103,108,119,92,69",
-                        "endOffsets": "132,236,345,465,558,628"
-                    },
-                    "to": {
-                        "startLines": "1608,1609,1610,1611,1612,1701",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "103289,103371,103475,103584,103704,116840",
-                        "endColumns": "81,103,108,119,92,69",
-                        "endOffsets": "103366,103470,103579,103699,103792,116905"
-                    }
-                },
-                {
                     "source": "C:\\Users\\hoang\\.gradle\\caches\\transforms-3\\2c4aa7449f1f2904e68bb900cc469463\\transformed\\jetified-flipper-0.182.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -7596,20 +7579,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Project_Test\\Gawean\\Gawean_App\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "D:\\Project\\Gawean\\Gawean_App\\android\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "159,265",
-                        "endColumns": "63,68",
-                        "endOffsets": "218,329"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,137,241,350,470,563",
+                        "endColumns": "81,103,108,119,92,69",
+                        "endOffsets": "132,236,345,465,558,628"
                     },
                     "to": {
-                        "startLines": "1509,1510",
-                        "startColumns": "4,4",
-                        "startOffsets": "93312,93376",
-                        "endColumns": "63,68",
-                        "endOffsets": "93371,93440"
+                        "startLines": "1608,1609,1610,1611,1612,1701",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "103289,103371,103475,103584,103704,116840",
+                        "endColumns": "81,103,108,119,92,69",
+                        "endOffsets": "103366,103470,103579,103699,103792,116905"
                     }
                 },
                 {
@@ -7722,23 +7705,6 @@
                         "endLines": "362,490,491,719,720,830,831,832,833,834,835,836,1295,1296,1297,1298,1299,1300,1301,1302,1303,1304,1305,1306,1307,1308,1309,1333,1334,1335,1339,1340,1341,1342,1343,1344,1345,1346,1347,1348,1349,1350,1351,1352,1353,1354,1355,1356,1357,1358,1359,1360,1361,1362,1363,1364,1365,1366,1367,1368,1369,1370,1391,1392,1421,1422,1423,1424,1425,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1443,1512,1714,5372,5376,5377,5381,5382,6467,6468,9076,9419,9671,9692,9874,9880",
                         "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "18160,24814,24902,41383,41446,48818,48886,48958,49028,49089,49163,49236,80945,81006,81068,81132,81194,81255,81323,81423,81483,81549,81622,81691,81748,81800,81862,83486,83562,83627,83850,83909,83969,84029,84089,84149,84209,84269,84329,84389,84449,84509,84568,84628,84688,84748,84808,84868,84928,84988,85048,85108,85168,85227,85287,85347,85406,85465,85524,85583,85642,85701,86740,86775,88309,88372,88427,88485,88543,88604,88667,88724,88775,88825,88886,88943,89009,89043,89078,89460,93567,117916,363970,364171,364281,364482,364611,438997,439064,576094,587595,610904,611585,616662,616829"
-                    }
-                },
-                {
-                    "source": "D:\\Project_Test\\Gawean\\Gawean_App\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "1546",
-                        "startColumns": "4",
-                        "startOffsets": "95914",
-                        "endColumns": "47",
-                        "endOffsets": "95957"
                     }
                 },
                 {
@@ -7871,7 +7837,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Project_Test\\Gawean\\Gawean_App\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Project\\Gawean\\Gawean_App\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -7887,6 +7853,23 @@
                         "endLines": "1746",
                         "endColumns": "12",
                         "endOffsets": "120039"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Gawean\\Gawean_App\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
+                    },
+                    "to": {
+                        "startLines": "1546",
+                        "startColumns": "4",
+                        "startOffsets": "95914",
+                        "endColumns": "47",
+                        "endOffsets": "95957"
                     }
                 },
                 {
@@ -7997,6 +7980,23 @@
                         "startOffsets": "90630,101528",
                         "endColumns": "67,166",
                         "endOffsets": "90693,101690"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Gawean\\Gawean_App\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "159,265",
+                        "endColumns": "63,68",
+                        "endOffsets": "218,329"
+                    },
+                    "to": {
+                        "startLines": "1509,1510",
+                        "startColumns": "4,4",
+                        "startOffsets": "93312,93376",
+                        "endColumns": "63,68",
+                        "endOffsets": "93371,93440"
                     }
                 },
                 {

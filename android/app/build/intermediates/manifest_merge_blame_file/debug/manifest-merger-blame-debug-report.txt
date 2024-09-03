@@ -9,17 +9,17 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->D:\Project_Test\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->D:\Project_Test\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->D:\Project\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->D:\Project\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:3:5-67
-12-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:3:22-64
+12-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:3:22-64
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:4:5-81
-13-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:4:22-78
+13-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:4:5-81
+13-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:4:22-78
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:5:5-79
-14-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:5:22-76
+14-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:5:5-79
+14-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:5:22-76
 15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
 15-->[com.facebook.flipper:flipper:0.182.0] C:\Users\hoang\.gradle\caches\transforms-3\2c4aa7449f1f2904e68bb900cc469463\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
 15-->[com.facebook.flipper:flipper:0.182.0] C:\Users\hoang\.gradle\caches\transforms-3\2c4aa7449f1f2904e68bb900cc469463\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
@@ -54,61 +54,61 @@
 30-->[androidx.work:work-runtime:2.7.1] C:\Users\hoang\.gradle\caches\transforms-3\499f672330154baf07385c37849660e9\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
 31
 32    <application
-32-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:6:5-29:19
+32-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:6:5-29:19
 33        android:name="com.gawean_app.MainApplication"
-33-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:8:7-38
+33-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:8:7-38
 34        android:allowBackup="false"
-34-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:12:7-34
+34-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:12:7-34
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 35-->[androidx.core:core:1.8.0] C:\Users\hoang\.gradle\caches\transforms-3\54b627b2396f4ccbd9b49567a98d1954\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 36        android:debuggable="true"
 37        android:icon="@mipmap/gawean"
-37-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:10:7-36
+37-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:10:7-36
 38        android:label="@string/app_name"
-38-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:9:7-39
+38-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:9:7-39
 39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:11:7-52
+39-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:11:7-52
 40        android:theme="@style/AppTheme"
-40-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:13:7-38
+40-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:13:7-38
 41        android:usesCleartextTraffic="true" >
-41-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:7:7-42
+41-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:7:7-42
 42        <activity
-42-->D:\Project_Test\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:11:9-111
+42-->D:\Project\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:11:9-111
 43            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-43-->D:\Project_Test\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:11:19-83
+43-->D:\Project\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:11:19-83
 44            android:exported="false" />
-44-->D:\Project_Test\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:11:84-108
+44-->D:\Project\Gawean\Gawean_App\android\app\src\debug\AndroidManifest.xml:11:84-108
 45
 46        <meta-data
-46-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:14:9-16:67
+46-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:14:9-16:67
 47            android:name="com.google.android.geo.API_KEY"
-47-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:15:9-54
+47-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:15:9-54
 48            android:value="AIzaSyCedxgL-QihNIgaWhPl9wynh5QBAOYBipc" />
-48-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:16:9-64
+48-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:16:9-64
 49
 50        <activity
-50-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:17:7-28:18
+50-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:17:7-28:18
 51            android:name="com.gawean_app.MainActivity"
-51-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:18:9-37
+51-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:18:9-37
 52            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-52-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:20:9-118
+52-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:20:9-118
 53            android:exported="true"
-53-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:23:9-32
+53-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:23:9-32
 54            android:label="@string/app_name"
-54-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:19:9-41
+54-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:19:9-41
 55            android:launchMode="singleTask"
-55-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:21:9-40
+55-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:21:9-40
 56            android:windowSoftInputMode="adjustResize" >
-56-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:22:9-51
+56-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:22:9-51
 57            <intent-filter>
-57-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:24:9-27:25
+57-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:24:9-27:25
 58                <action android:name="android.intent.action.MAIN" />
-58-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:25:13-65
-58-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:25:21-62
+58-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:25:13-65
+58-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:25:21-62
 59
 60                <category android:name="android.intent.category.LAUNCHER" />
-60-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:26:13-73
-60-->D:\Project_Test\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:26:23-70
+60-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:26:13-73
+60-->D:\Project\Gawean\Gawean_App\android\app\src\main\AndroidManifest.xml:26:23-70
 61            </intent-filter>
 62        </activity>
 63
